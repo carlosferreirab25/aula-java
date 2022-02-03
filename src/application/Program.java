@@ -33,6 +33,8 @@ public class Program {
 			}
 		}
 		System.out.println("Negative numbers = " + count);
+		System.out.println("Deu certo irmão");
+		System.out.println("Não esta indo");
 		
 		sc.close();
 
